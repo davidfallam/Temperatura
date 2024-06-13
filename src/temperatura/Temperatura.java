@@ -19,7 +19,7 @@ public class Temperatura {
         Scanner entrada = new Scanner(System.in);
         double resultado, temperatura=0.0;
         while (true){
-        System.out.println("Menu de conversor de temperatura ");
+        System.out.println("Menu  temperatura ");
         System.out.println("1. Celsius a Fahrenheit ");
         System.out.println("2. Celsius a Kelvin ");
         System.out.println("3. Fahrenheit a Celsius");
